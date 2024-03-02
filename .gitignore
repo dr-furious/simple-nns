@@ -1,2 +1,4 @@
 /env
 *.idea
+.DS_Store
+msivak_assignment_3.ipynb
